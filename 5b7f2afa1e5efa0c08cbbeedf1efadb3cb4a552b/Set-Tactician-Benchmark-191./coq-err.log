@@ -1,191 +1,8 @@
-File "./theories/Init/Logic.v", line 775, characters 2-38:
+File "./theories/Numbers/Cyclic/Int63/Int63.v", line 783, characters 7-53:
 Warning:
 Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
-File "./plugins/setoid_ring/Rings_R.v", line 40, characters 0-7:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Reals/Ratan.v", line 1610, characters 0-48:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Reals/RiemannInt.v", line 365, characters 2-99:
+File "./theories/Numbers/Cyclic/Int31/Ring31.v", line 82, characters 0-83:
 Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/Reals/RiemannInt.v", line 742, characters 2-159:
-Warning: Tactician's tactical decomposition crashed. Please report.
-File "./theories/Reals/Rpower.v", line 415, characters 2-28:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Reals/Rtrigo_calc.v", line 57, characters 2-100:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Reals/Rtrigo_calc.v", line 171, characters 2-37:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Reals/Rtrigo_calc.v", line 230, characters 2-41:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Reals/Rtrigo_calc.v", line 235, characters 2-41:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Reals/Rtrigo_calc.v", line 362, characters 2-53:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/Reals/Rtrigo1.v", line 338, characters 0-39:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Reals/Rtrigo1.v", line 582, characters 2-107:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/Reals/Rtrigo1.v", line 624, characters 2-47:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Reals/Rtopology.v", line 239, characters 2-48:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Reals/Rprod.v", line 170, characters 2-100:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/Floats/FloatLemmas.v", line 7, characters 2-14:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/Reals/Ranalysis1.v", line 258, characters 2-72:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/Reals/Rlimit.v", line 33, characters 2-12:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/Reals/Rlimit.v", line 108, characters 2-34:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./plugins/micromega/RMicromega.v", line 96, characters 2-10:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Reals/SeqProp.v", line 77, characters 2-9:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/Reals/RIneq.v", line 586, characters 2-17:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Reals/RIneq.v", line 780, characters 2-50:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/Reals/RIneq.v", line 1147, characters 2-44:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/Reals/RIneq.v", line 1485, characters 2-7:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Reals/RIneq.v", line 1576, characters 2-32:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Reals/RIneq.v", line 1686, characters 2-21:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Numbers/Cyclic/Int63/Int63.v", line 235, characters 7-47:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/Numbers/Cyclic/Int63/Int63.v", line 470, characters 1-46:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Numbers/Cyclic/Int63/Int63.v", line 475, characters 1-44:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Numbers/Cyclic/Int63/Int63.v", line 557, characters 7-51:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Numbers/Cyclic/Int63/Int63.v", line 560, characters 7-51:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Numbers/Cyclic/Int63/Int63.v", line 632, characters 7-23:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Numbers/Cyclic/Int63/Int63.v", line 711, characters 2-11:
-Warning:
-Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
-File "./theories/Numbers/Cyclic/Int63/Int63.v", line 1072, characters 7-38:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Numbers/Cyclic/Int63/Int63.v", line 1752, characters 7-40:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Numbers/Cyclic/Int31/Cyclic31.v", line 300, characters 1-39:
-Warning:
-Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
-File "./theories/Numbers/Cyclic/Int31/Cyclic31.v", line 474, characters 1-8:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Numbers/Cyclic/Int31/Cyclic31.v", line 1188, characters 2-19:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Numbers/Cyclic/Int31/Cyclic31.v", line 1220, characters 2-14:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/Numbers/Cyclic/Int31/Cyclic31.v", line 1249, characters 1-26:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Numbers/Cyclic/Int31/Cyclic31.v", line 1344, characters 1-26:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Numbers/Cyclic/Int31/Cyclic31.v", line 1364, characters 1-26:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Numbers/Cyclic/Int31/Cyclic31.v", line 1369, characters 1-24:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Numbers/Cyclic/ZModulo/ZModulo.v", line 61, characters 2-16:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Numbers/Cyclic/ZModulo/ZModulo.v", line 441, characters 1-8:
-Warning:
-Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
-File "./theories/MSets/MSetEqProperties.v", line 71, characters 0-38:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/MSets/MSetEqProperties.v", line 144, characters 0-34:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/MSets/MSetEqProperties.v", line 234, characters 0-14:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/MSets/MSetEqProperties.v", line 248, characters 0-42:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/MSets/MSetEqProperties.v", line 261, characters 0-46:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/MSets/MSetEqProperties.v", line 298, characters 0-14:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/MSets/MSetEqProperties.v", line 304, characters 0-14:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/MSets/MSetEqProperties.v", line 360, characters 0-14:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/MSets/MSetEqProperties.v", line 366, characters 0-14:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/MSets/MSetEqProperties.v", line 390, characters 0-14:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/MSets/MSetEqProperties.v", line 396, characters 0-14:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/MSets/MSetEqProperties.v", line 402, characters 0-14:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/MSets/MSetEqProperties.v", line 447, characters 0-14:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/MSets/MSetEqProperties.v", line 459, characters 0-14:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/MSets/MSetEqProperties.v", line 517, characters 0-45:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/MSets/MSetEqProperties.v", line 536, characters 0-50:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/MSets/MSetEqProperties.v", line 561, characters 0-35:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/MSets/MSetEqProperties.v", line 649, characters 0-14:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Numbers/Cyclic/Abstract/NZCyclic.v", line 77, characters 0-12:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Numbers/Cyclic/Abstract/NZCyclic.v", line 87, characters 0-19:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Reals/ConstructiveCauchyRealsMult.v", line 1355, characters 2-9:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/FSets/FSetEqProperties.v", line 125, characters 0-14:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/FSets/FSetEqProperties.v", line 143, characters 0-34:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/FSets/FSetEqProperties.v", line 173, characters 0-19:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/FSets/FSetEqProperties.v", line 233, characters 0-14:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/FSets/FSetEqProperties.v", line 247, characters 0-42:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/FSets/FSetEqProperties.v", line 260, characters 0-46:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/FSets/FSetEqProperties.v", line 278, characters 0-14:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/FSets/FSetEqProperties.v", line 297, characters 0-14:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/FSets/FSetEqProperties.v", line 303, characters 0-14:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/FSets/FSetEqProperties.v", line 359, characters 0-14:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/FSets/FSetEqProperties.v", line 365, characters 0-14:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/FSets/FSetEqProperties.v", line 389, characters 0-14:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/FSets/FSetEqProperties.v", line 395, characters 0-14:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/FSets/FSetEqProperties.v", line 401, characters 0-14:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/FSets/FSetEqProperties.v", line 427, characters 0-60:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/FSets/FSetEqProperties.v", line 458, characters 0-14:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/FSets/FSetEqProperties.v", line 516, characters 0-45:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/FSets/FSetEqProperties.v", line 535, characters 0-50:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/FSets/FSetEqProperties.v", line 560, characters 0-35:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/FSets/FSetEqProperties.v", line 642, characters 0-14:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/FSets/FSetEqProperties.v", line 648, characters 0-14:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./plugins/btauto/Algebra.v", line 133, characters 0-17:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./plugins/btauto/Algebra.v", line 139, characters 0-17:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./plugins/btauto/Algebra.v", line 145, characters 0-17:
-Warning: Benchmarking error: Forked process exited with signal -11
 File "./plugins/btauto/Algebra.v", line 475, characters 4-59:
 Warning:
 Tactician found a bug in it's tactical decomposition. Please report.
@@ -193,55 +10,6 @@ enough (Pos.max (Pos.succ i) i0 = i0) as <-; intuition
 enough (_tmp_tactician0 : Pos.max (Pos.succ i) i0 = i0);
  [ intropattern subst <- _tmp_tactician0; idtac | .. ]; intuition
 
-File "./theories/ZArith/Zdigits.v", line 169, characters 4-17:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/ZArith/Zquot.v", line 49, characters 7-22:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/ZArith/Zquot.v", line 385, characters 1-8:
-Warning:
-Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
-File "./theories/MSets/MSetProperties.v", line 736, characters 2-39:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/MSets/MSetProperties.v", line 783, characters 2-51:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/ZArith/Zpow_facts.v", line 77, characters 7-14:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/ZArith/Zpow_facts.v", line 80, characters 7-14:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/FSets/FSetProperties.v", line 733, characters 2-39:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/FSets/FMapFacts.v", line 77, characters 0-33:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/FSets/FMapFacts.v", line 1209, characters 2-42:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/FSets/FMapFacts.v", line 1223, characters 2-39:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/QArith/Qcabs.v", line 57, characters 7-33:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/FSets/FSetCompat.v", line 333, characters 9-54:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/FSets/FSetCompat.v", line 337, characters 9-53:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./plugins/micromega/ZMicromega.v", line 283, characters 2-9:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./plugins/micromega/QMicromega.v", line 152, characters 2-65:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/MSets/MSetFacts.v", line 167, characters 7-31:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/MSets/MSetFacts.v", line 205, characters 7-49:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/FSets/FSetFacts.v", line 44, characters 0-33:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/FSets/FSetFacts.v", line 69, characters 0-43:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/FSets/FSetFacts.v", line 126, characters 0-49:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/QArith/Qabs.v", line 121, characters 0-9:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/QArith/Qcanon.v", line 292, characters 2-9:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/QArith/Qcanon.v", line 529, characters 2-14:
-Warning: Benchmarking error: Forked process exited with signal -11
 File "./theories/FSets/FSetPositive.v", line 319, characters 9-25:
 Warning:
 Tactician found a bug in it's tactical decomposition. Please report.
@@ -251,44 +19,6 @@ intros s;
    (intros y;
      (intros _tmp_tactician0; (intropattern subst -> _tmp_tactician0; idtac))))
 
-File "./theories/FSets/FSetPositive.v", line 542, characters 9-33:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/FSets/FSetPositive.v", line 545, characters 9-33:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/FSets/FSetPositive.v", line 548, characters 9-33:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/FSets/FSetPositive.v", line 551, characters 9-33:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/FSets/FSetPositive.v", line 554, characters 9-33:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/FSets/FSetPositive.v", line 557, characters 9-33:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Classes/DecidableClass.v", line 72, characters 1-20:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Classes/DecidableClass.v", line 79, characters 1-18:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/Classes/DecidableClass.v", line 93, characters 1-16:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Numbers/DecimalN.v", line 29, characters 1-37:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Logic/WKL.v", line 46, characters 49-62:
-Warning:
-Tactician found a bug in it's tactical decomposition. Please report.
-intros [| ] H
-intros _tmp_tactician0;
- (destruct _tmp_tactician0 as [| ];
-   [ .. | intros H; idtac | intros H; idtac ])
-
-File "./theories/Logic/WKL.v", line 49, characters 50-63:
-Warning:
-Tactician found a bug in it's tactical decomposition. Please report.
-intros [| ] H
-intros _tmp_tactician0;
- (destruct _tmp_tactician0 as [| ];
-   [ .. | intros H; idtac | intros H; idtac ])
-
-File "./theories/Numbers/DecimalPos.v", line 105, characters 1-16:
-Warning: Benchmarking error: Forked process exited with signal -11
 File "./theories/Numbers/DecimalPos.v", line 377, characters 1-73:
 Warning:
 Tactician found a bug in it's tactical decomposition. Please report.
@@ -301,50 +31,155 @@ destruct (Pos.of_uint d) eqn:Hd, (Pos.of_uint d') eqn:Hd'; intros [=]
    | intro_equality_clear _tmp_tactician0; idtac
    | intro_equality_hnf _tmp_tactician0; idtac ]))
 
-File "./theories/ZArith/Znumtheory.v", line 214, characters 2-32:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/ZArith/Znumtheory.v", line 861, characters 1-10:
+File "./theories/ZArith/Zcomplements.v", line 67, characters 2-95:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+enough (H : Q (Z.abs p)) by
+ (destruct (Zabs_dec p) as [->| ->]; elim H; auto with zarith)
+enough (H : Q (Z.abs p));
+ [ <recording::with_runtime_info@0> <genarg:wit_runtime_info>;
+    [ ..
+    | intropattern subst -> _tmp_tactician0; idtac
+    | intropattern subst -> _tmp_tactician0; idtac ]; 
+    elim H; auto with zarith
+ | .. ]
+
+File "./theories/ZArith/Zcomplements.v", line 74, characters 4-48:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+destruct (Zabs_dec m) as [->| ->]; trivial
+<recording::with_runtime_info@0> <genarg:wit_runtime_info>;
+ [ ..
+ | intropattern subst -> _tmp_tactician0; idtac
+ | intropattern subst -> _tmp_tactician0; idtac ]; trivial
+
+File "./theories/ZArith/Zcomplements.v", line 77, characters 6-50:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+destruct (Zabs_dec m) as [->| ->]; trivial
+<recording::with_runtime_info@0> <genarg:wit_runtime_info>;
+ [ ..
+ | intropattern subst -> _tmp_tactician0; idtac
+ | intropattern subst -> _tmp_tactician0; idtac ]; trivial
+
+File "./theories/ZArith/Zcomplements.v", line 88, characters 2-93:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+enough (Q (Z.abs p)) by
+ (destruct (Zabs_dec p) as [->| ->]; elim H; auto with zarith)
+enough (Q (Z.abs p));
+ [ <recording::with_runtime_info@0> <genarg:wit_runtime_info>;
+    [ ..
+    | intropattern subst -> _tmp_tactician0; idtac
+    | intropattern subst -> _tmp_tactician0; idtac ]; 
+    elim H; auto with zarith
+ | .. ]
+
+File "./theories/ZArith/Zcomplements.v", line 98, characters 6-50:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+destruct (Zabs_dec m) as [->| ->]; trivial
+<recording::with_runtime_info@0> <genarg:wit_runtime_info>;
+ [ ..
+ | intropattern subst -> _tmp_tactician0; idtac
+ | intropattern subst -> _tmp_tactician0; idtac ]; trivial
+
+File "./theories/ZArith/BinInt.v", line 622, characters 18-68:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+destruct n as [| [| | ]| [| | ]]; simpl; try easy
+try intros until n;
+ (<recording::with_runtime_info@0> <genarg:wit_runtime_info>;
+   [ ..
+   | idtac
+   | destruct _tmp_tactician0 as [| | ]; [ .. | idtac | idtac | idtac ]
+   | destruct _tmp_tactician0 as [| | ]; [ .. | idtac | idtac | idtac ] ]);
+ simpl; try easy
+
+File "./plugins/rtauto/Bintree.v", line 277, characters 0-28:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+intros [=H%Pos.succ_not_1]
+intros _tmp_tactician0; (first
+ [ discriminate _tmp_tactician0; idtac
+ | injection _tmp_tactician0 as _tmp_tactician2;
+    (apply Pos.succ_not_1 in _tmp_tactician2 as H; [ idtac | .. ];
+      try clear _tmp_tactician2)
+ | intro_equality_clear _tmp_tactician0; idtac
+ | intro_equality_hnf _tmp_tactician0; idtac ])
+
+File "./theories/Lists/List.v", line 264, characters 6-22:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+intros a b [=]
+intros a;
+ (intros b;
+   (intros _tmp_tactician0; (first
+     [ discriminate _tmp_tactician0; idtac
+     | injection _tmp_tactician0 as; idtac
+     | intro_equality_clear _tmp_tactician0; idtac
+     | intro_equality_hnf _tmp_tactician0; idtac ])))
+
+File "./theories/PArith/BinPos.v", line 1631, characters 0-38:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+intros Hf Hg [s _ ->| s r _ -> Hr]
+intros Hf;
+ (intros Hg;
+   (intros _tmp_tactician0;
+     (destruct _tmp_tactician0
+       as
+        [s
+         _tmp_tactician2
+         _tmp_tactician4|
+         s
+         r
+         _tmp_tactician2
+         _tmp_tactician4
+         Hr];
+       [ ..
+       | intropattern subst -> _tmp_tactician4; idtac;
+          try clear _tmp_tactician2
+       | intropattern subst -> _tmp_tactician4; idtac;
+          try clear _tmp_tactician2 ])))
+
+File "./theories/Arith/Between.v", line 160, characters 6-52:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+destruct (exists_in_int k (S l)) as (l', [], ?)
+<recording::with_runtime_info@0> <genarg:wit_runtime_info>;
+ [ .. | destruct _tmp_tactician0 as []; idtac ]
+
+File "./theories/Arith/EqNat.v", line 28, characters 2-27:
 Warning:
 Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
-File "./theories/NArith/Ndec.v", line 49, characters 2-10:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/NArith/Ndec.v", line 151, characters 7-41:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/NArith/Ndist.v", line 129, characters 2-30:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/NArith/Ndist.v", line 134, characters 2-9:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/NArith/Ndist.v", line 144, characters 2-30:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./theories/NArith/Ndist.v", line 260, characters 2-9:
-Warning: Benchmarking error: Forked process exited with code 1
-File "./plugins/omega/PreOmega.v", line 32, characters 9-47:
+File "./theories/Arith/PeanoNat.v", line 287, characters 1-35:
 Warning:
-Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
-File "./theories/NArith/Ndigits.v", line 45, characters 1-12:
+Tactician found a bug in it's tactical decomposition. Please report.
+intros ([| ], H); try discriminate
+intros _tmp_tactician0;
+ (destruct _tmp_tactician0 as (_tmp_tactician2, H);
+   [ .. | destruct _tmp_tactician2 as [| ]; [ .. | idtac | idtac ] ]);
+ try discriminate
+
+File "./theories/Logic/EqdepFacts.v", line 487, characters 0-12:
 Warning:
-Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
-File "./theories/NArith/Ndigits.v", line 269, characters 2-22:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/NArith/Ndigits.v", line 275, characters 2-22:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/NArith/Ndigits.v", line 331, characters 2-9:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Strings/BinaryString.v", line 131, characters 2-73:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/Strings/OctalString.v", line 161, characters 2-73:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/ZArith/Zdiv.v", line 244, characters 2-27:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/ZArith/Zpower.v", line 55, characters 2-25:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/ZArith/Zpower.v", line 124, characters 9-21:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/ZArith/Zpower.v", line 143, characters 3-31:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/ZArith/Zpower.v", line 148, characters 3-23:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/ZArith/Zpower.v", line 154, characters 9-21:
-Warning: Benchmarking error: Forked process exited with signal -11
-File "./theories/ZArith/Zpower.v", line 177, characters 3-26:
-Warning: Benchmarking error: Forked process exited with signal -11
+Tactician found a bug in it's tactical decomposition. Please report.
+intros * []
+intros *; (intros _tmp_tactician0; (destruct _tmp_tactician0 as []; idtac))
+
+File "./theories/Logic/EqdepFacts.v", line 493, characters 0-12:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+intros * []
+intros *; (intros _tmp_tactician0; (destruct _tmp_tactician0 as []; idtac))
+
+File "./theories/Logic/EqdepFacts.v", line 500, characters 0-12:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+intros * []
+intros *; (intros _tmp_tactician0; (destruct _tmp_tactician0 as []; idtac))
+
+File "./theories/Init/Tactics.v", line 189, characters 0-45:
+Warning:
+now idtac((TacAlias Coq.Init.Tactics.now_#_62200C10 ((TacThen (TacArg (CAst (Reference (CAst t)))) (TacArg (CAst (TacCall Coq.Init.Tactics.easy (CAst Located)))))) (CAst (Tacexp (TacId)))))
