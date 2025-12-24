@@ -1,7 +1,7 @@
-File "./theories/Numbers/Cyclic/Int63/Int63.v", line 783, characters 7-53:
+File "./theories/Reals/PartSum.v", line 156, characters 2-78:
 Warning:
 Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
-File "./theories/Numbers/Cyclic/Int31/Ring31.v", line 82, characters 0-83:
+File "./theories/Numbers/Cyclic/ZModulo/ZModulo.v", line 402, characters 1-34:
 Warning: Benchmarking error: Forked process exited with code 1
 File "./plugins/btauto/Algebra.v", line 475, characters 4-59:
 Warning:
@@ -10,6 +10,12 @@ enough (Pos.max (Pos.succ i) i0 = i0) as <-; intuition
 enough (_tmp_tactician0 : Pos.max (Pos.succ i) i0 = i0);
  [ intropattern subst <- _tmp_tactician0; idtac | .. ]; intuition
 
+File "./theories/QArith/Qround.v", line 32, characters 0-9:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/QArith/Qround.v", line 39, characters 0-9:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
 File "./theories/FSets/FSetPositive.v", line 319, characters 9-25:
 Warning:
 Tactician found a bug in it's tactical decomposition. Please report.
@@ -108,6 +114,9 @@ intros _tmp_tactician0; (first
  | intro_equality_clear _tmp_tactician0; idtac
  | intro_equality_hnf _tmp_tactician0; idtac ])
 
+File "./theories/Logic/Classical_Pred_Type.v", line 37, characters 0-16:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
 File "./theories/Lists/List.v", line 264, characters 6-22:
 Warning:
 Tactician found a bug in it's tactical decomposition. Please report.
@@ -150,9 +159,6 @@ destruct (exists_in_int k (S l)) as (l', [], ?)
 <recording::with_runtime_info@0> <genarg:wit_runtime_info>;
  [ .. | destruct _tmp_tactician0 as []; idtac ]
 
-File "./theories/Arith/EqNat.v", line 28, characters 2-27:
-Warning:
-Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
 File "./theories/Arith/PeanoNat.v", line 287, characters 1-35:
 Warning:
 Tactician found a bug in it's tactical decomposition. Please report.
@@ -162,6 +168,9 @@ intros _tmp_tactician0;
    [ .. | destruct _tmp_tactician2 as [| ]; [ .. | idtac | idtac ] ]);
  try discriminate
 
+File "./plugins/ssr/ssrbool.v", line 1828, characters 7-43:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
 File "./theories/Logic/EqdepFacts.v", line 487, characters 0-12:
 Warning:
 Tactician found a bug in it's tactical decomposition. Please report.
