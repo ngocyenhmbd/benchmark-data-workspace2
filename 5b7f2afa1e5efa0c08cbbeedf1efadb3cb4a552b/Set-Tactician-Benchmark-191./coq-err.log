@@ -1,8 +1,15 @@
-File "./theories/Reals/PartSum.v", line 156, characters 2-78:
-Warning:
-Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
-File "./theories/Numbers/Cyclic/ZModulo/ZModulo.v", line 402, characters 1-34:
-Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/Reals/RiemannInt.v", line 742, characters 2-159:
+Warning: Tactician's tactical decomposition crashed. Please report.
+File "./theories/Reals/Rtopology.v", line 239, characters 2-48:
+Warning: Benchmarking error: Forked process exited with signal -11
+File "./theories/Numbers/Cyclic/Int31/Cyclic31.v", line 1249, characters 1-26:
+Warning: Benchmarking error: Forked process exited with signal -11
+File "./theories/Numbers/Cyclic/Int31/Cyclic31.v", line 1344, characters 1-26:
+Warning: Benchmarking error: Forked process exited with signal -11
+File "./theories/Numbers/Cyclic/Int31/Cyclic31.v", line 1364, characters 1-26:
+Warning: Benchmarking error: Forked process exited with signal -11
+File "./theories/Numbers/Cyclic/Int31/Cyclic31.v", line 1369, characters 1-24:
+Warning: Benchmarking error: Forked process exited with signal -11
 File "./plugins/btauto/Algebra.v", line 475, characters 4-59:
 Warning:
 Tactician found a bug in it's tactical decomposition. Please report.
@@ -10,12 +17,16 @@ enough (Pos.max (Pos.succ i) i0 = i0) as <-; intuition
 enough (_tmp_tactician0 : Pos.max (Pos.succ i) i0 = i0);
  [ intropattern subst <- _tmp_tactician0; idtac | .. ]; intuition
 
-File "./theories/QArith/Qround.v", line 32, characters 0-9:
+File "./theories/FSets/FSetEqProperties.v", line 523, characters 0-54:
 Warning:
 Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
-File "./theories/QArith/Qround.v", line 39, characters 0-9:
+File "./theories/FSets/FSetEqProperties.v", line 535, characters 0-50:
 Warning:
 Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/MSets/MSetDecide.v", line 498, characters 5-15:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/FSets/FSetDecide.v", line 498, characters 5-15:
+Warning: Benchmarking error: Forked process exited with signal -11
 File "./theories/FSets/FSetPositive.v", line 319, characters 9-25:
 Warning:
 Tactician found a bug in it's tactical decomposition. Please report.
@@ -24,6 +35,37 @@ intros s;
  (intros x;
    (intros y;
      (intros _tmp_tactician0; (intropattern subst -> _tmp_tactician0; idtac))))
+
+File "./theories/FSets/FSetPositive.v", line 542, characters 9-33:
+Warning: Benchmarking error: Forked process exited with signal -11
+File "./theories/FSets/FSetPositive.v", line 545, characters 9-33:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/FSets/FSetPositive.v", line 548, characters 9-33:
+Warning: Benchmarking error: Forked process exited with signal -11
+File "./theories/FSets/FSetPositive.v", line 551, characters 9-33:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/FSets/FSetPositive.v", line 554, characters 9-33:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/FSets/FSetPositive.v", line 557, characters 9-33:
+Warning: Benchmarking error: Forked process exited with signal -11
+File "./theories/Sorting/Heap.v", line 66, characters 4-31:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Logic/WKL.v", line 46, characters 49-62:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+intros [| ] H
+intros _tmp_tactician0;
+ (destruct _tmp_tactician0 as [| ];
+   [ .. | intros H; idtac | intros H; idtac ])
+
+File "./theories/Logic/WKL.v", line 49, characters 50-63:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+intros [| ] H
+intros _tmp_tactician0;
+ (destruct _tmp_tactician0 as [| ];
+   [ .. | intros H; idtac | intros H; idtac ])
 
 File "./theories/Numbers/DecimalPos.v", line 377, characters 1-73:
 Warning:
@@ -37,6 +79,14 @@ destruct (Pos.of_uint d) eqn:Hd, (Pos.of_uint d') eqn:Hd'; intros [=]
    | intro_equality_clear _tmp_tactician0; idtac
    | intro_equality_hnf _tmp_tactician0; idtac ]))
 
+File "./plugins/setoid_ring/Field_theory.v", line 67, characters 7-29:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/setoid_ring/Field_theory.v", line 71, characters 7-23:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/QArith/QArith_base.v", line 619, characters 7-25:
+Warning: Benchmarking error: Forked process exited with signal -11
 File "./theories/ZArith/Zcomplements.v", line 67, characters 2-95:
 Warning:
 Tactician found a bug in it's tactical decomposition. Please report.
@@ -90,6 +140,30 @@ destruct (Zabs_dec m) as [->| ->]; trivial
  | intropattern subst -> _tmp_tactician0; idtac
  | intropattern subst -> _tmp_tactician0; idtac ]; trivial
 
+File "./plugins/setoid_ring/InitialRing.v", line 594, characters 9-31:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/micromega/EnvRing.v", line 567, characters 2-31:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/micromega/EnvRing.v", line 572, characters 2-31:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/setoid_ring/Ring_polynom.v", line 71, characters 8-30:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/setoid_ring/Ring_polynom.v", line 557, characters 8-29:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/setoid_ring/Ring_polynom.v", line 1489, characters 3-46:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/ZArith/Zcompare.v", line 159, characters 2-30:
+Warning: Benchmarking error: Forked process exited with signal -11
+File "./theories/ZArith/Zcompare.v", line 170, characters 2-9:
+Warning: Benchmarking error: Forked process exited with signal -11
+File "./theories/ZArith/Zcompare.v", line 181, characters 2-30:
+Warning: Benchmarking error: Forked process exited with signal -11
 File "./theories/ZArith/BinInt.v", line 622, characters 18-68:
 Warning:
 Tactician found a bug in it's tactical decomposition. Please report.
@@ -102,6 +176,14 @@ try intros until n;
    | destruct _tmp_tactician0 as [| | ]; [ .. | idtac | idtac | idtac ] ]);
  simpl; try easy
 
+File "./theories/Sets/Finite_sets_facts.v", line 45, characters 4-33:
+Warning: Tactician's tactical decomposition crashed. Please report.
+File "./plugins/setoid_ring/Ring_theory.v", line 422, characters 10-32:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/setoid_ring/Ring_theory.v", line 429, characters 10-24:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
 File "./plugins/rtauto/Bintree.v", line 277, characters 0-28:
 Warning:
 Tactician found a bug in it's tactical decomposition. Please report.
@@ -114,9 +196,17 @@ intros _tmp_tactician0; (first
  | intro_equality_clear _tmp_tactician0; idtac
  | intro_equality_hnf _tmp_tactician0; idtac ])
 
-File "./theories/Logic/Classical_Pred_Type.v", line 37, characters 0-16:
+File "./theories/Sorting/Sorted.v", line 79, characters 4-99:
 Warning:
-Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+Tactician found a bug in it's tactical decomposition. Please report.
+split; [ induction 1 as [| a l [| ]] | induction 1 ]; auto
+ using Sorted, LocallySorted, HdRel
+split;
+ [ <recording::with_runtime_info@0> <genarg:wit_runtime_info>;
+    [ .. | idtac | destruct _tmp_tactician0 as [| ]; [ .. | idtac | idtac ] ]
+ | <recording::with_runtime_info@0>
+ <genarg:wit_runtime_info> ]; auto using Sorted, LocallySorted, HdRel
+
 File "./theories/Lists/List.v", line 264, characters 6-22:
 Warning:
 Tactician found a bug in it's tactical decomposition. Please report.
@@ -168,7 +258,91 @@ intros _tmp_tactician0;
    [ .. | destruct _tmp_tactician2 as [| ]; [ .. | idtac | idtac ] ]);
  try discriminate
 
-File "./plugins/ssr/ssrbool.v", line 1828, characters 7-43:
+File "./theories/Numbers/Natural/Abstract/NStrongRec.v", line 78, characters 0-7:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/ssr/ssrbool.v", line 596, characters 7-17:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/ssr/ssrbool.v", line 599, characters 7-17:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/ssr/ssrbool.v", line 1814, characters 7-21:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/ssr/ssrbool.v", line 1816, characters 7-21:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/ssr/ssrbool.v", line 1818, characters 7-21:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/ssr/ssrbool.v", line 1821, characters 7-27:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/ssr/ssrbool.v", line 1823, characters 7-27:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/ssr/ssrbool.v", line 1841, characters 49-63:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/ssr/ssrbool.v", line 1843, characters 58-72:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/ssr/ssrbool.v", line 1845, characters 51-65:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/ssr/ssrbool.v", line 1847, characters 49-69:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/ssr/ssrbool.v", line 1850, characters 7-27:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/ssr/ssrbool.v", line 1853, characters 7-27:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/ssr/ssrbool.v", line 1857, characters 7-43:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/ssr/ssrbool.v", line 1943, characters 7-37:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/ssr/ssrfun.v", line 441, characters 48-66:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/ssr/ssrfun.v", line 673, characters 7-42:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./plugins/ssr/ssrfun.v", line 736, characters 7-67:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Numbers/DecimalFacts.v", line 57, characters 12-55:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+induction d; intros d' [=]; simpl; trivial
+try intros until d; <recording::with_runtime_info@0>
+ <genarg:wit_runtime_info>;
+ (intros d';
+   (intros _tmp_tactician0; (first
+     [ discriminate _tmp_tactician0; idtac
+     | injection _tmp_tactician0 as; idtac
+     | intro_equality_clear _tmp_tactician0; idtac
+     | intro_equality_hnf _tmp_tactician0; idtac ]))); 
+ simpl; trivial
+
+File "./theories/Numbers/DecimalFacts.v", line 115, characters 3-42:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+destruct nzhead; intros H [=]; trivial
+try intros until nzhead; <recording::with_runtime_info@0>
+ <genarg:wit_runtime_info>;
+ (intros H;
+   (intros _tmp_tactician0; (first
+     [ discriminate _tmp_tactician0; idtac
+     | injection _tmp_tactician0 as; idtac
+     | intro_equality_clear _tmp_tactician0; idtac
+     | intro_equality_hnf _tmp_tactician0; idtac ]))); trivial
+
+File "./theories/Logic/JMeq.v", line 119, characters 0-11:
 Warning:
 Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
 File "./theories/Logic/EqdepFacts.v", line 487, characters 0-12:
@@ -177,6 +351,9 @@ Tactician found a bug in it's tactical decomposition. Please report.
 intros * []
 intros *; (intros _tmp_tactician0; (destruct _tmp_tactician0 as []; idtac))
 
+File "./theories/Logic/EqdepFacts.v", line 493, characters 0-12:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
 File "./theories/Logic/EqdepFacts.v", line 493, characters 0-12:
 Warning:
 Tactician found a bug in it's tactical decomposition. Please report.
